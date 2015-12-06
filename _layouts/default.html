@@ -3,6 +3,7 @@ title: This is my Site Title
 published: true
 ---
 
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -20,7 +21,7 @@ published: true
         <div class='clearfix col12'>
           <div class='menu fr'>
             <a class='{% if page.section == "blog" %}active{% endif %}' href='{{site.baseurl}}/'>Blog</a>
-            <a class='{% if page.url == "bestyrelsen/" %}active{% endif %}' href='{{site.baseurl}}/bestyrelsen'>Bestyrelsen</a>
+            <a class='{% if page.url == "bestyrelsen/" %}active{% endif %}' href='{{site.baseurl}}/bestyrelsen.html'>Bestyrelsen</a>
           </div>
           <h1 class='title'><a href='{{site.baseurl}}/'>{{page.title}}</a></h1>
         </div>
