@@ -15,7 +15,6 @@ Bestyrelsen holder møde ca. en gang om måneden - for det meste som videomøder
 - Kasserer: Andreas Skovse
 - Mette Markert
 - Martin Lindhardt
-
 - 1.suppleant: Laura Gerlev Hansen
 - 2.suppleant: Jonas Glad
 
