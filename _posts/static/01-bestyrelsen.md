@@ -1,7 +1,7 @@
 ---
 layout: page
 published: true
-permalink: about/
+permalink: bestyrelsen/
 title: Bestyrelsen
 ---
 
