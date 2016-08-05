@@ -4,8 +4,6 @@ published: true
 title: Generalforsamling 2016
 permalink: /generalforsamling-2016
 ---
-## Generalforsamling 2016
-
 Alea afholder ordinær generalforsamling den 27. august, i Aarhus.
 Dagsorden ifølge vedtægterne:
 
@@ -20,9 +18,9 @@ Dagsorden ifølge vedtægterne:
 9. Valg af to suppleanter og revisor, samt eventuel opsupplering af bestyrelsesmedlemmer.
 10. Evt.
 
-På valg til bestyrelsen er Mette Markert (søger ikke genvalg), Joan Z. Juhl Hansen (søger ikke genvalg), Peter Lind (genopstiller). Foreløbigt regnskab for 2015-2016 er vedhæftet. Bestyrelsens forslag til budget 2016-2017 er vedhæftet.
+På valg til bestyrelsen er Mette Markert (søger ikke genvalg), Joan Z. Juhl Hansen (søger ikke genvalg), Peter Lind (genopstiller). [Foreløbigt regnskab for 2015-2016](/regnskab-2015-2016.pdf "Hent det foreløbige regnskab for 2015-2016"). [Budget for 2016-2017](/budget-2016-2017.pdf "Hent budgettet for 2016-2017").
 
-Bestyrelsen har ikke modtaget nogen forslag til behandling. Forslag der ønskes behandlet på generalforsamlingen skal sendes til alea@fastaval.dk senest den 13. august. Endelig dagsorden, med indkomne forslag og revideret regnskab, udsendes senest den 20. august.
+Bestyrelsen har ikke modtaget nogen forslag til behandling. Forslag der ønskes behandlet på generalforsamlingen skal sendes til [alea@fastaval.dk](mailto:alea@fastaval.dk) senest den 13. august. Endelig dagsorden, med indkomne forslag og revideret regnskab, udsendes senest den 20. august.
 
 Interesserede kan følge med på facebook: [https://www.facebook.com/events/293141367692756/](https://www.facebook.com/events/293141367692756/)
 Tilmelding på facebook er ikke nødvendig, men vil hjælpe os med den praktiske planlægning af dagen.
