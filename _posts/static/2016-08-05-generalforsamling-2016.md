@@ -2,7 +2,7 @@
 layout: page
 published: true
 title: Generalforsamling 2016
-permalink: generalforsamling-2016
+permalink: /generalforsamling-2016
 ---
 ## Generalforsamling 2016
 
