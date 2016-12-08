@@ -8,7 +8,7 @@ title: ALEA
 
 <div class='listing col6 pad4h margin3'>
   <p>Her finder du information om ALEA - hjemmesiden bag <a href="http://www.fastaval.dk/">Fastaval</a>.</p>
-  <p>Under <a href="/bestyrelsen.html">Bestyrelsen</a> finder du info om den siddende bestyrelse</a>. Under <a href="/opgaver.html">Opgaver</a> kan du læse om hvad ALEA laver.</p>
+  <p>Under <a href="/bestyrelsen">Bestyrelsen</a> finder du info om den siddende bestyrelse</a>. Under <a href="/opgaver">Opgaver</a> kan du læse om hvad ALEA laver.</p>
   {% for item in site.categories.blog limit:1000 %}
     {% capture date %}{{ item.date | date: '%B %Y' }}{% endcapture %}
     {% capture ndate %}{{ item.next.date | date: '%B %Y' }}{% endcapture %}
