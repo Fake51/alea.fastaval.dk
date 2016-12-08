@@ -13,10 +13,10 @@ Bestyrelsen holder møde ca. en gang om måneden - for det meste som videomøder
 
 ## Den nuværende bestyrelse
 
-- Formand: Joan Zenia Juhl Hansen
-- Næstformand: Peter Lind
+- Formand: Ole Sørensen
+- Næstformand: Jonas Glad
 - Kasserer: Andreas Skovse
-- Mette Markert
 - Martin Lindhardt
-- 1.suppleant: Laura Gerlev Hansen
+- Peter Lind
+- 1.suppleant: Jesper Lindhard
 - 2.suppleant: Jonas Glad
