@@ -2,7 +2,7 @@
 layout: page
 published: true
 title: Generalforsamling 2016
-permalink: /generalforsamling-2016
+permalink: /archive/generalforsamling-2016
 ---
 Alea afholder ordinær generalforsamling den 27. august, i Aarhus.
 Dagsorden ifølge vedtægterne:
