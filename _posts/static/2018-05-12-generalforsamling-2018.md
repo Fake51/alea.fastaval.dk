@@ -5,6 +5,7 @@ title: Generalforsamling 2018
 permalink: /generalforsamling-2018
 ---
 Alea afholder ordinær generalforsamling den 26. august, N. J. Fjordsgade 2, 8000 Aarhus C.
+
 Dagsorden ifølge vedtægterne:
 
 1. Valg af dirigent, som ikke må være medlem af foreningens bestyrelse, og referent. 
