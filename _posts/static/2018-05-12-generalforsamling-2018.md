@@ -19,7 +19,7 @@ Dagsorden ifølge vedtægterne:
 9. Valg af to suppleanter og revisor, samt eventuel opsupplering af bestyrelsesmedlemmer.
 10. Evt. 
 
-På valg til bestyrelsen er Peter Lind og Poul Thomsen.
+På valg til bestyrelsen er Peter Lind, Jakob Bavnshøj, og Poul Thomsen.
 
 Interesserede kan følge med på facebook: [https://www.facebook.com/events/193133971308224/](https://www.facebook.com/events/193133971308224/)
 Tilmelding på facebook er ikke nødvendig, men vil hjælpe os med den praktiske planlægning af dagen.
